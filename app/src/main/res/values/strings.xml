@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ServiceLab</string>
+
+    <!-- RSS Service buttons -->
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+    <!-- shared preferences -->
+    <string name="SHARED_PREFS">vuchris.tacoma.uw.edu.servicelab.SHAREDPREFS</string>
+    <!-- <string name="SHARED_PREFS">edu.uw.tacoma.vuchris.servicelab.SHAREDPREFS</string> -->
+    <string name="ON">on</string>
+
+</resources>
